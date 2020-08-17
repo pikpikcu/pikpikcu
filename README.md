@@ -1,6 +1,6 @@
 <h2> Hi, I'm pikpikcu!</h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=pikpikcu&show_icons=true&theme=radical" width="350">
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikpikcu&&layout=compact&theme=radical" width="300">
+<!-- <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikpikcu&&layout=compact&theme=radical" width="300"> -->
 <img src="http://www.nyan.cat/cats/original.gif" width="50"> 
 <h4>[*] Just A n00b [*]</h4>
 </em></p>
