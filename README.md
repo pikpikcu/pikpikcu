@@ -1,16 +1,14 @@
-### Hi there 👋
+<h2> Hi, I'm pikpikcu!</h2>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=pikpikcu&show_icons=true&theme=radical" width="350">
+<img src="http://www.nyan.cat/cats/original.gif" width="50"> 
+<h4>[*] Just A n00b [*]</h4>
+</em></p>
 
-<!--
-**pikpikcu/pikpikcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Twitter Follow](https://img.shields.io/twitter/follow/sec715)](https://twitter.com/sec715)
+<br>
+[![GitHub followers](https://img.shields.io/github/followers/pikpikcu?style=social)](https://github.com/pikpikcu)
+<br>
+[![GitHub stars](https://img.shields.io/github/stars/pikpikcu/XRCross?style=social)](https://github.com/pikpikcu/XRCross)
+<br>
+[![GitHub stars](https://img.shields.io/github/stars/pikpikcu/Pentest-Tools-Framework?style=social)](https://github.com/pikpikcu/Pentest-Tools-Framework)
+<br><a href="https://www.buymeacoffee.com/pikpikcu"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="30px"></a>
