@@ -8,7 +8,7 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=pikpikcu&show_icons=true&theme=radical" width="350">
 #### [*] Just A n00b [*]
-<img src="https://raw.githubusercontent.com/pikpikcu/pikpikcu/master/output.gif" width="200">
+<img src="https://raw.githubusercontent.com/pikpikcu/pikpikcu/master/output.gif">
 
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikpikcu&&layout=compact&theme=blue-green" width="300"> 
  
