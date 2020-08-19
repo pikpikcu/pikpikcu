@@ -29,4 +29,4 @@
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikpikcu&&layout=compact&theme=blue-green" width="250px" height="250px"></td>
  </tr></table></center>
  
- <img src="https://raw.githubusercontent.com/pikpikcu/pikpikcu/master/output.gif">
+ <center><img src="https://raw.githubusercontent.com/pikpikcu/pikpikcu/master/output.gif"></center>
