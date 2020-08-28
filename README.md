@@ -23,9 +23,11 @@
  </a>
 </p>
 
+<!--
 <center><table><tr>
 <td><img src="https://github-readme-stats.vercel.app/api?username=pikpikcu&show_icons=true&theme=radical" width="300px" height="300px"></td>
 <td><img src="https://raw.githubusercontent.com/pikpikcu/pikpikcu/master/output.gif" width="250px" height="250px"></td>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikpikcu&&layout=compact&theme=blue-green" width="250px" height="250px"></td>
  </tr></table></center>
+-->
  
