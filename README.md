@@ -1,5 +1,24 @@
-<h4 align="center"><img src="https://raw.githubusercontent.com/pikpikcu/pikpikcu/master/PirateHack-AgADcgEAAugVJyI.gif" width="300px" height="300px">
-
+<!--<h4 align="center"><img src="https://raw.githubusercontent.com/pikpikcu/pikpikcu/master/PirateHack-AgADcgEAAugVJyI.gif" width="300px" height="300px"> -->
+```
+                                                  ▄              ▄    
+                                                  ▌▒█           ▄▀▒▌   
+                                                  ▌▒▒█        ▄▀▒▒▒▐   
+                                                 ▐▄█▒▒▀▀▀▀▄▄▄▀▒▒▒▒▒▐   
+                                               ▄▄▀▒▒▒▒▒▒▒▒▒▒▒█▒▒▄█▒▐   
+                                             ▄▀▒▒▒░░░▒▒▒░░░▒▒▒▀██▀▒▌   
+                                            ▐▒▒▒▄▄▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▀▄▒▌  
+                                            ▌░░▌█▀▒▒▒▒▒▄▀█▄▒▒▒▒▒▒▒█▒▐  
+                                           ▐░░░▒▒▒▒▒▒▒▒▌██▀▒▒░░░▒▒▒▀▄▌ 
+                                           ▌░▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░▒▒▒▒▌ 
+                                          ▌▒▒▒▄██▄▒▒▒▒▒▒▒▒░░░░░░░░▒▒▒▐ 
+                                          ▐▒▒▐▄█▄█▌▒▒▒▒▒▒▒▒▒▒░▒░▒░▒▒▒▒▌
+                                          ▐▒▒▐▀▐▀▒▒▒▒▒▒▒▒▒▒▒▒▒░▒░▒░▒▒▐ 
+                                           ▌▒▒▀▄▄▄▄▄▄▀▒▒▒▒▒▒▒░▒░▒░▒▒▒▌ 
+                                           ▐▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░▒░▒▒▄▒▒▐  
+                                            ▀▄▒▒▒▒▒▒▒▒▒▒▒▒▒░▒░▒▄▒▒▒▒▌  
+                                              ▀▄▒▒▒▒▒▒▒▒▒▒▄▄▄▀▒▒▒▒▄▀   
+                                                ▀▄▄▄▄▄▄▀▀▀▒▒▒▒▒▄▄▀     
+```
 </a>
 <h4 align="center">🤟🏻 Hi, I'm pikpikcu...</h4> 
 <h3 align="center">  [*] Just A n00b [*]</h3> 
