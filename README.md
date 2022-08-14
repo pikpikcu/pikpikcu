@@ -24,7 +24,7 @@
 <h3 align="center">  [*] Just A n00b [*]</h3> 
 <p align="center">
   </a>
-  <a href="https://twitter.com/sec715">
+  <a href="https://twitter.com/pikpikcu">
     <img src="https://img.shields.io/twitter/follow/sec715">
  </a>
   <a href="https://github.com/pikpikcu">
