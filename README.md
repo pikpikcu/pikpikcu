@@ -25,7 +25,7 @@
 <p align="center">
   </a>
   <a href="https://twitter.com/pikpikcu">
-    <img src="https://img.shields.io/twitter/follow/sec715">
+    <img src="https://img.shields.io/twitter/follow/pikpikcu">
  </a>
   <a href="https://github.com/pikpikcu">
     <img src="https://img.shields.io/github/followers/pikpikcu?style=social">
