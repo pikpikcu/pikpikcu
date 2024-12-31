@@ -21,7 +21,7 @@
 ```
 </a>
 <h4 align="center">🤟🏻 Hi, I'm pikpikcu...</h4> 
-<h3 align="center">  [*] Learn [*]</h3> 
+<h3 align="center">  [*] Stay kiddie stay wannabe 😊 [*]</h3> 
 <p align="center">
   </a>
   <a href="https://twitter.com/pikpikcu">
